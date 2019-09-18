@@ -5,3 +5,7 @@ As you complete each lab, you should provide a description of your features and 
 
 ## VR Lab: 0
 + BeatSaber
++ Job Simulator 
++ Vader Immortal: Episode 1
++ Virtual Virtual Reality
++ Oculus First Contact
