@@ -18,4 +18,6 @@ As you complete each lab, you should provide a description of your features and 
   - Design intent is for the player to utilize the portal system that is presented on the map to go back and forth to place the objects down. The reasoning for taking the scarecrow's hat off and moving it to the table is to utilize the players VR controller buttons and to be as precise as possible to make sure that the correct hat is placed in the correct space.
   - Assets used are the portal/moving systems, the scarecrows, a low poly folding table for the hats, the hats off the scarecrow, and a billboard presenting the directions.
   
+  - I did my assignment directly in the same area as the VRTK Tutorial.
+  
   - Unfortunately, I could not code a way for the task that was completed to be acknowledged. I had a hard time trying to implement it into the system no matter what code I attempted to write and for the future, I will proceed to ask questions even if I feel like I know what I'm doing.
