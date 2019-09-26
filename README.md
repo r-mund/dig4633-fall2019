@@ -10,12 +10,11 @@ As you complete each lab, you should provide a description of your features and 
 + Virtual Virtual Reality
 + Oculus First Contact
 
-##Lab 1: VR
-+ September 18, 2019
+## Lab 1: VR
+# September 18, 2019
   - Finish VRTK Tutorial by the end of lab in order to continue working on lab requirements at home.
   
-##Lab 1: VR
-+ September 25, 2019
+# September 25, 2019
   - Design intent is for the player to utilize the portal system that is presented on the map. The reasoning for taking the scarecrow's hat off and moving it to the table is to utilize the players VR controller buttons and to be as precise as possible to make sure that the correct hat is placed in the correct space. The idea is put the hat on the table without pushing the table over.
   - Assets used are the portal/moving systems, the scarecrows, a low poly folding table for the hats, the hats off the scarecrow, and a billboard presenting the directions.
   
