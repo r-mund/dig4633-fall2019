@@ -21,3 +21,7 @@ As you complete each lab, you should provide a description of your features and 
   - I did my assignment directly in the same area as the VRTK Tutorial.
   
   - Unfortunately, I could not code a way for the task that was completed to be acknowledged. I had a hard time trying to implement it into the system no matter what code I attempted to write and for the future, I will proceed to ask questions even if I feel like I know what I'm doing.
+
+# Lab 2: AR
+## October 2, 2019
+  - A potentional application concept that could be built on this concept is a possible cat collecting/watching game. It would be extremely casual and relaxing (i.e. like bird watching). The player could move around their phone and see how many cats they can collect for their photolog or just watch cats play. 
